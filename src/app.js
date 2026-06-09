@@ -10,7 +10,7 @@ app.use(cors({
     origin: [
         "http://localhost:5173",
         "http://localhost:5174",
-        "https://ai-resume-analyzer-n9kkjozsm-23053132-glitchs-projects.vercel.app"
+        "https://ai-resume-analyzer-amber-one.vercel.app"
     ],
     credentials: true
 }))
